@@ -30,7 +30,7 @@ Este é o teste de API que esta automatizado
 
 ## Obs: :exclamation:
 Algumas requisições deram erros nos estatusCode
-**DeletarSimulacaoTest** era pra retornar 204, retorno 200
+* **DeletarSimulacaoTest** era pra retornar 204, retorno 200
 
 
 
