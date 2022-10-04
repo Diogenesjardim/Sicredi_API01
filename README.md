@@ -19,14 +19,14 @@ Este é o teste de API que esta automatizado
  ## Execução do Teste
  Para executar o teste completo, **Suite.classe**
 
-@RunWith(org.junit.runners.Suite.class)
-@SuiteClasses({
-	RestricaoTest.class,
-	CadastroTest.class,
-	AtualizaumaSimulaçãoTest.class,
-	NovaSimulacaoTest.class,
-	SimulacaoTest.class,
-	DeletarSimulacaoTest.class,
+* @RunWith(org.junit.runners.Suite.class)
+* @SuiteClasses({
+	* RestricaoTest.class,
+	* CadastroTest.class,
+	* AtualizaumaSimulaçãoTest.class,
+	* NovaSimulacaoTest.class,
+	* SimulacaoTest.class,
+	* DeletarSimulacaoTest.class,
 
 ## Obs: :exclamation:
 Algumas requisições deram erros nos estatusCode
